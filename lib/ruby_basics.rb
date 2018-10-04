@@ -7,7 +7,8 @@ def assign_variable(value)
   tmp
 end
 
-def argue
+def argue(phrase)
+  phrase
   
 end
 
